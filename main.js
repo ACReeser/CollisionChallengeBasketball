@@ -91,7 +91,7 @@
         // ball has a radius of ball_w/2
         // ballX and ballY are the bottom-left corner of the ball
         // ballX and ballY are the PAST version of the ball
-        // vel_x and vel_y will be ADDED to ballX and ballY after this function
+        // vel_x will be ADDED to ballX and and vel_y will be SUBTRACTED to ballY after this function
 
         //TODO: change vel_x and vel_y to "bounce" off of rim and backboard
 
